@@ -1,0 +1,5 @@
+com\xf\service\impl\BookServiceImpl.class
+com\xf\bean\Book.class
+com\xf\dao\BookDao.class
+com\xf\controller\BookController.class
+com\xf\service\BookService.class
